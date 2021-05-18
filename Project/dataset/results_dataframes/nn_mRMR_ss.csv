@@ -1,0 +1,4 @@
+,class,mean_specificity,mean_sensitivity
+1,functional,0.9141,0.4857
+2,functional needs repair,0.0036,0.9993
+3,non functional,0.5478,0.9069
